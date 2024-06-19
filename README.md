@@ -4,6 +4,6 @@ Ec Utbildning <br>
 Astrid Hansen <br>
 
 
-This repository contains: <br>
-- images if objects. The images are used to test a pretrained model.
-- a python file with the pretrained model and classification of the images
+This repository contains:
+- images if objects. The images are used to test the pretrained model.
+- a python file with the pretrained model, resnet50, and classification of the images
